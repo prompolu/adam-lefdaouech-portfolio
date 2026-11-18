@@ -22,4 +22,6 @@ Adam directly supplied these facts in this chat: second-year student at EBS; Mar
 
 | L’Artisan du Bois | [Repository README](https://github.com/prompolu/ARTISAN-DU-BOIS-/blob/main/README.md), homepage source: ebony, gold and cedar visual direction, furniture collections, workshop presentation, responsive layout and WhatsApp enquiries. The README calls it a homepage mock-up and lists unfinished launch work, so it is described as a website concept. | [Project on GitHub](https://github.com/prompolu/ARTISAN-DU-BOIS-) |
 
+The portfolio follows Adam’s requested order: Promark, Prompolu, DEBROMP, STRUGAL, UEMF, Saraproc, La Locandiera, L’Artisan du Bois. The digital-presence and product-film evidence for Prompolu is combined in one card, with website access first and all three previously available films retained.
+
 The work previews are captures of live sites, the DEBROMP calculator, existing film posters and a frame from the uploaded Euromed film. L’Artisan du Bois uses a typographic project cover based on the repository’s ebony/gold/cedar art direction and eight-point-star motif; it is not presented as a screenshot. They do not represent newly invented projects. No sales, conversion, audience-growth, ranking or business-impact metrics have been added.

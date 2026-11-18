@@ -1,6 +1,6 @@
 # Adam Lefdaouech — Personal Portfolio
 
-A personal portfolio with a WebGL helmet reveal, nine selected marketing, web, motion-design and software projects, native project-film playback, an animated circuit, a photo timeline, and responsive navigation.
+A personal portfolio with a WebGL helmet reveal, eight selected marketing, web, motion-design and software projects, native project-film playback, an animated circuit, a photo timeline, and responsive navigation.
 
 Adam is a second-year student at EBS, Marketing Manager at Prompolu Aluminium, Founder of Promark Marketing Agency, and Graphic Motion Designer at Euromed.
 
@@ -18,7 +18,7 @@ All HTML, CSS, JavaScript, and personal photos are embedded in `index.html`. Thr
 
 ## Selected work
 
-The work section includes Prompolu Aluminium, Promark Marketing Agency, Prompolu product films, Saraproc Maroc, STRUGAL Maroc, a La Locandiera restaurant website concept, DEBROMP aluminium-workshop software, Euromed motion design, and the L’Artisan du Bois furniture website concept. Visitors can filter projects and watch films on request, including Adam’s uploaded 36-second UEMF tutorial. The Euromed video is included in `media/GMD19-UEMF-phone.mp4`; keep that directory alongside `index.html` when serving the site.
+The work section presents Promark, Prompolu Aluminium, DEBROMP, STRUGAL Maroc, UEMF / Euromed, Saraproc Maroc, La Locandiera, and L’Artisan du Bois, in that order. Prompolu’s website and product films are grouped in one entry, with the website link before the films. Visitors can filter projects and watch films on request, including Adam’s uploaded 36-second UEMF tutorial. The Euromed video is included in `media/GMD19-UEMF-phone.mp4`; keep that directory alongside `index.html` when serving the site.
 
 See [WORK-SOURCES.md](WORK-SOURCES.md) for the evidence and scope of the project descriptions.
 
