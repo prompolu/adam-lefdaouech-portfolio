@@ -1,10 +1,10 @@
 # Sources for the selected-work section
 
-Reviewed on 18 November 2026. The user's computer disk is not mounted in this cloud workspace. This update uses the user's stated roles and the following connected, public project repositories and live sites.
+Reviewed on 18 November 2026. The descriptions use Adam’s stated roles, project documentation, live sites and the video he supplied.
 
 ## Roles
 
-Adam directly supplied these facts in this chat: second-year student at EBS; Marketing Manager at Prompolu Aluminium; Founder of Promark Marketing Agency. His birthdate and photographs were also supplied directly.
+Adam directly supplied these facts in this chat: second-year student at EBS; Marketing Manager at Prompolu Aluminium; Founder of Promark Marketing Agency; Graphic Motion Designer at Euromed. His birthdate and photographs were also supplied directly.
 
 ## Selected projects
 
@@ -17,4 +17,7 @@ Adam directly supplied these facts in this chat: second-year student at EBS; Mar
 | STRUGAL Maroc | [Website README](https://github.com/prompolu/strugal-website/blob/main/README.md): video-led homepage, catalogue, system comparisons and professional resources. Described as a website project, without claiming an independently verified client commission. | [Website](https://prompolu.github.io/strugal-website/) |
 | La Locandiera | [Website README](https://github.com/prompolu/LA-LOCANDIERA/blob/main/README.md) and live page. The README identifies unfinished menu/hours information, so this is explicitly labelled a restaurant website concept. | [Website concept](https://prompolu.github.io/LA-LOCANDIERA/) |
 
-The work previews are captures of the linked live sites and existing delivered-film posters. They do not represent newly invented projects. No sales, conversion, audience-growth, ranking or business-impact metrics have been added.
+| DEBROMP | Project README and application/design documentation reviewed with the owner’s access. The case describes catalogue-based frame calculations, cutting lists, bar optimisation, project files and exports. It does not publish private source code or claim commercial quoting, stock management or future AI features. The preview shows a generic workshop-calculator configuration. | [DEBROMP web app](https://cutter-hard.pages.dev/) |
+| Euromed motion design | Adam supplied his role as Graphic Motion Designer at Euromed and the original `GMD19-UEMF-phone.mp4`. The video is a 36.3-second, 1080 × 1920 H.264/AAC tutorial titled “Candidater à l’UEMF en ligne, pas à pas”. | The original uploaded film is included in `media/` and plays in the portfolio’s video dialog. |
+
+The work previews are captures of live sites, the DEBROMP calculator, existing film posters and a frame from the uploaded Euromed film. They do not represent newly invented projects. No sales, conversion, audience-growth, ranking or business-impact metrics have been added.
